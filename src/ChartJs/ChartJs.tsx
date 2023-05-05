@@ -3,7 +3,7 @@ import { StyleProp, StyleSheet, View, ViewStyle } from "react-native";
 import { WebView } from "react-native-webview";
 
 // eslint-disable-next-line @typescript-eslint/no-var-requires
-const htmlTemplate = require("./index.html");
+const htmlTemplate = require("./html");
 
 const styles = StyleSheet.create({
   container: {
